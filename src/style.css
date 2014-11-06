@@ -1,0 +1,14 @@
+body {
+    color: #11EEEE;
+    background-color: #111111;
+}
+#class1 {
+    color: #00FFFF;
+    background-color: #000000;
+    text-align: center;
+}
+#class2 {
+    color: #00FFFF;
+    background-color: #000000;
+    text-align: right;
+}
